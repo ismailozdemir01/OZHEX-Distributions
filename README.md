@@ -16,7 +16,8 @@ Henüz yayımlanmamış veya doğrulanmamış bir dosya hazır kabul edilmemelid
 
 ## Son kullanıcı belgeleri
 
-- [OZHEX Son Kullanıcı Kılavuzu](KULLANICI-KILAVUZU.md) — indirme, kurulum, ilk program, derleme, paket yöneticisi ve sorun giderme.
+- [OZHEX — Sıfırdan İleri Seviyeye Son Kullanıcı Eğitim Kitabı](OZHEX-SIFIRDAN-ILERI-SEVIYE-KULLANICI-EGITIM-KITABI.md) — dili öğrenme, örnek programlar, modüller, paket yöneticisi ve uygulama geliştirme.
+- [OZHEX Son Kullanıcı Kılavuzu](KULLANICI-KILAVUZU.md) — indirme, kurulum, ilk çalıştırma ve sorun giderme.
 - [Kurulum Kılavuzu](KURULUM.md) — işletim sistemine göre kurulum adımları.
 
 ## Kaynak kodu
