@@ -14,9 +14,10 @@ GitHub Releases bölümünde yayımlandığında aşağıdaki dosyalar bulunur:
 
 Henüz yayımlanmamış veya doğrulanmamış bir dosya hazır kabul edilmemelidir. Native Windows kurucusu, Windows runtime ABI tamamlanmadan dağıtıma çıkarılmaz.
 
-## Kurulum
+## Son kullanıcı belgeleri
 
-Ayrıntılı yönergeler için [KURULUM.md](KURULUM.md) dosyasına bakın.
+- [OZHEX Son Kullanıcı Kılavuzu](KULLANICI-KILAVUZU.md) — indirme, kurulum, ilk program, derleme, paket yöneticisi ve sorun giderme.
+- [Kurulum Kılavuzu](KURULUM.md) — işletim sistemine göre kurulum adımları.
 
 ## Kaynak kodu
 
