@@ -72,7 +72,7 @@ OZHEX kaynak kodu Türkçe anahtar sözcükler içerir. Örneğin fonksiyon tan�
 
 İndirme adresi:
 
-**https://github.com/ismailozdemir01/OZHEX-Distributions/releases**
+**https://github.com/ismailozdemir01/OZHEX-Distributions/dist**
 
 | Kullandığınız sistem | Kullanılacak paket | Çalışma ortamı |
 |---|---|---|
