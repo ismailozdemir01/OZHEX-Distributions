@@ -6,7 +6,7 @@
 **Platform kapsamı:** Yayımlanmış Linux x86-64 paketi ve Windows x64 üzerinde WSL2 + Ubuntu  
 **Resmî indirme deposu:** https://github.com/ismailozdemir01/OZHEX-Distributions  
 **Resmî Releases:** https://github.com/ismailozdemir01/OZHEX-Distributions/releases  
-**Geliştirici kaynak deposu:** https://github.com/ismailozdemir01/OZHEX
+**Geliştirici kaynak deposu:** https://github.com/ismailozdemir01/
 
 > **Bu kitap son kullanıcılar içindir.** Kaynak kod deposunu klonlamanız, derleyiciyi kaynak koddan üretmeniz veya dahili build betiklerini çalıştırmanız gerekmez. Kurulum paketleri ve kullanıcı belgeleri yalnızca OZHEX-Distributions deposundan alınmalıdır. Bu kitap compiler geliştirme, ABI/backend, self-host bootstrap veya dahili release üretim işlemlerini öğretmez.
 
@@ -689,7 +689,7 @@ Linux x86-64 üzerinde dosya veya socket modülünü içe aktaran bir program ol
 
 ### Kaynak kod deposunu indirmem gerekiyor mu?
 
-Hayır. Son kullanıcı paketlerini [OZHEX-Distributions Releases](https://github.com/ismailozdemir01/OZHEX-Distributions/releases) sayfasından indirin.
+Hayır. Son kullanıcı paketlerini [OZHEX-Distributions Releases](https://github.com/ismailozdemir01/OZHEX-Distributions/dist) sayfasından indirin.
 
 ### Windows'ta hangi terminali kullanmalıyım?
 
@@ -726,10 +726,10 @@ Hayır. Derleme yalnızca kaynak kodunun derlenebildiğini gösterir. Uygulaman�
 
 ## Resmî bağlantılar
 
-- **İndirme ve sürümler:** https://github.com/ismailozdemir01/OZHEX-Distributions/releases
+- **İndirme ve sürümler:** https://github.com/ismailozdemir01/OZHEX-Distributions/dist
 - **Dağıtım deposu:** https://github.com/ismailozdemir01/OZHEX-Distributions
 - **Kurulum adımları:** [KURULUM.md](KURULUM.md)
 - **Son kullanıcı kılavuzu:** [KULLANICI-KILAVUZU.md](KULLANICI-KILAVUZU.md)
-- **Geliştirici/yönetici kaynak deposu:** https://github.com/ismailozdemir01/OZHEX
+- **Geliştirici/yönetici kaynak deposu:** https://github.com/ismailozdemir01/
 
 **Doküman kapsamı:** Son kullanıcı eğitimi. Compiler geliştirme, kaynak koddan release üretme, backend/ABI, self-host bootstrap ve dahili proje yönetimi bu kitabın kapsamı dışındadır.
