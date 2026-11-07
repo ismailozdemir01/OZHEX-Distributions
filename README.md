@@ -8,7 +8,7 @@ GitHub Releases bölümünde yayımlandığında aşağıdaki dosyalar bulunur:
 
 | Dosya | Platform | Açıklama |
 |---|---|---|
-| OZHEX-Setup-x64.exe | Windows x64 + WSL2 | WSL2/Ubuntu kurulumunu hazırlar ve Linux x86-64 OZHEX araç zincirini kurar. |
+| OZHEX-WSL2-Setup-x64.exe | Windows x64 + WSL2 | WSL2/Ubuntu kurulumunu hazırlar ve Linux x86-64 OZHEX araç zincirini kurar. |
 | ozhex-linux-x86_64.tar.gz | Linux x86-64 | Linux native compiler, CLI araçları ve standart kütüphane. |
 | OZHEX-Native-Setup-x64.exe | Windows x64 | WSL2 gerektirmeyen native Windows kurulumu. Yalnızca Windows compiler/runtime tamamlandığında yayımlanır. |
 
